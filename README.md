@@ -10,3 +10,7 @@ This section displays attribution and credits for any public image or sound asse
 ## Icons8
 
 [Spinner](https://icons8.com/icon/yi4Wa8EFkMvI/spinner) icon by [Icons8](https://icons8.com)
+
+## Flaticon
+
+[Mouse Clicker](https://www.flaticon.com/free-icon/mouse-clicker_9679992) icon by [Haca Studio](https://www.flaticon.com/authors/haca-studio)
