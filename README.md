@@ -15,4 +15,4 @@ This section displays attribution and credits for any public image or sound asse
 
 [Mouse Clicker](https://www.flaticon.com/free-icon/mouse-clicker_9679992) icon by [Haca Studio](https://www.flaticon.com/authors/haca-studio)
 
-[Eye](https://www.flaticon.com/free-icons/eye) icon by [Gregor Cresnar](https://www.flaticon.com/authors/gregor-cresnar)
+[Eye](https://www.flaticon.com/free-icon/eye_159604) icon by [Gregor Cresnar](https://www.flaticon.com/authors/gregor-cresnar)
